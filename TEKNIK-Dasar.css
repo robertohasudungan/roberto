@@ -1,0 +1,48 @@
+ .u-section-1 {
+  background-image: url("images/55551-ilustrasi-petinju-ilustrasi-tinju.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 763px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 0;
+  font-weight: 700;
+  margin-top: 20px;
+  text-decoration: underline !important;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 88px 60px -1px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 629px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 482px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 362px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 228px;
+  }
+}
